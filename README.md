@@ -7,3 +7,6 @@ The dataset contains the following columns:
 ● headline: The text of the financial news headline.
 ● sentiment: The sentiment label for the headline, which can be positive, negative, or
 neutral.
+
+
+https://www.kaggle.com/datasets/sbhatti/financial-sentiment-analysis
