@@ -1,6 +1,5 @@
 ### Dataset = https://www.kaggle.com/datasets/sbhatti/financial-sentiment-analysis
 
-### README.md
 
 # Financial Sentiment Analysis using Machine Learning
 
